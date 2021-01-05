@@ -9,3 +9,5 @@ A mega list of where do report abuse to web hosts.
 |  Microsoft Azure | https://portal.msrc.microsoft.com/en-us/engage/cars  | They can respond very fast.   |
 | Hetzner | https://abuse.hetzner.com/issues/new | Supports English and German |
 | OVH | https://www.ovh.com/world/abuse/ | US site is here: https://us.ovhcloud.com/abuse/#!/ |
+| GoDaddy | https://supportcenter.godaddy.com/AbuseReport | For hosting services |
+| GCP (Google Cloud) | https://support.google.com/code/contact/cloud_platform_report?hl=en | Don't report Google Domains here |
