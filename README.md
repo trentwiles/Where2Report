@@ -19,3 +19,4 @@ A mega list of where do report abuse to web hosts.
 | Hurricane Electric | abuse@he.net | |
 | Contabo | support@contabo.com | General contact email |
 | Online SaS | https://console.scaleway.com/support/abuses/create | |
+| Comast | abuse@comcast.net | |
