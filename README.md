@@ -14,3 +14,5 @@ A mega list of where do report abuse to web hosts.
 | Tencent | ipas@cnnic.cn | Untested |
 | China Unicom | hqs-ipabuse@chinaunicom.cn | Untested, may be unqiue to /8 block. Check WHOIS records for specifics. |
 | Cloudflare | https://www.cloudflare.com/abuse | Note that Cloudflare is not a host, it is only a CDN. |
+| Glitch | support@glitch.com | Project pages will often have a report abuse button |
+| US.net | ipadmin@us.net | General contact email |
