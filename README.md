@@ -11,3 +11,5 @@ A mega list of where do report abuse to web hosts.
 | OVH | https://www.ovh.com/world/abuse/ | US site is here: https://us.ovhcloud.com/abuse/#!/ |
 | GoDaddy | https://supportcenter.godaddy.com/AbuseReport | For hosting services |
 | GCP (Google Cloud) | https://support.google.com/code/contact/cloud_platform_report?hl=en | Don't report Google Domains here |
+| Tencent | ipas@cnnic.cn | Untested |
+| China Unicom | hqs-ipabuse@chinaunicom.cn | Untested, may be unqiue to /8 block. Check WHOIS records for specifics. |
