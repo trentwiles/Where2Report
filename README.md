@@ -1,5 +1,5 @@
 # Where2Report
-A mega list of where do report abuse to web hosts.
+A mega list of where do report abuse to web hosts and ISPs.
 
 
 | Host       | Report Form/Email     | Notes     |
