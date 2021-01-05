@@ -23,3 +23,4 @@ A mega list of where do report abuse to web hosts and ISPs.
 | WebsiteWelcome.com | abuse@websitewelcome.com | |
 | Hostinger | https://www.hostinger.com/report-abuse | |
 | Hostgator | abuse@hostgator.com | Do not file abuse reports via live chat |
+| Zare | abuse@zare.com | |
