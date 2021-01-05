@@ -16,3 +16,6 @@ A mega list of where do report abuse to web hosts.
 | Cloudflare | https://www.cloudflare.com/abuse | Note that Cloudflare is not a host, it is only a CDN. |
 | Glitch | support@glitch.com | Project pages will often have a report abuse button |
 | US.net | ipadmin@us.net | General contact email |
+| Hurricane Electric | abuse@he.net | |
+| Contabo | support@contabo.com | General contact email |
+| Online SaS | https://console.scaleway.com/support/abuses/create | |
